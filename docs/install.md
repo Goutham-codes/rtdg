@@ -11,30 +11,40 @@ Or download the [exe file](https://github.com/Goutham-codes/rtdg/blob/master/gui
 
 Create a virtual environment and install the modules in requirements.txt
 
-sh
+```sh
 python -m venv venv
+```
 
 Activate the virtual environment to install the modules in it.
-sh
+
+```sh
 venv\Scripts\activate.bat
+```
 
 Now install the modules.
-sh
+
+```sh
 pip install -r requirements.txt
+```
 
 Running the gui file
-sh
-python source/gui.py
 
+```sh
+python source/gui.py
+```
 
 ## Creating exe file
 
-Install the pyinstaller module using pip
-sh
+Install the pyinstaller module using pip.
+
+```sh
 pip install pyinstaller
+```
 
-Type the following command to create exe file
-sh
+Type the following command to create exe file.
+
+```sh
 pyinstaller source/gui.py --onefile -w
-
+```
+--onefile to create a one-file bundled executable.
 -w for no console.
