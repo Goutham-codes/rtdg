@@ -5,6 +5,7 @@ RTDG is a tool written in python that will generate random test data using the f
 
 ![](https://github.com/Goutham-codes/rtdg/blob/master/docs/img/logoblack.png)
 
+---
 
 ## Usage example
 
@@ -14,7 +15,7 @@ Or download the [exe file](https://github.com/Goutham-codes/rtdg/blob/master/gui
 
 ![](https://github.com/Goutham-codes/rtdg/blob/master/docs/img/interface.PNG)
 
-
+---
 
 ## Development setup
 
@@ -32,6 +33,8 @@ Now install the modules.
 pip install -r requirements.txt
 ```
 
+---
+
 ## Release History
 
 
@@ -39,14 +42,26 @@ pip install -r requirements.txt
     * initial release
 
 
+---
+
+## Docs
+
+The following are the links to the documentation of this project
+
+[index](https://github.com/Goutham-codes/rtdg/blob/master/docs/index.md)  
+[install](https://github.com/Goutham-codes/rtdg/blob/master/docs/install.md)   
+[usage](https://github.com/Goutham-codes/rtdg/blob/master/docs/usage.md)   
+[releases](https://github.com/Goutham-codes/rtdg/blob/master/docs/releases.md)
+
+
+---
+
 ## Meta
 
-### Contributors
+### Authors
 * [Goutham-codes](https://github.com/Goutham-codes/)
 * [aditya788](https://github.com/aditya788)
 * [kalaiyarasuak](https://github.com/kalaiyarasuak/)
-
-Distributed under the MIT license. See ``LICENSE`` for more information.
 
 
 ## Contributing
